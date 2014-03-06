@@ -22,14 +22,14 @@ import org.apache.hadoop.mapred.lib.MultipleInputs;
 * Version:	1.0
 *		
 * Author:	Ilhwan Moon	
-*			Jinoh Kim	
-*			ICEL (Intelligent Cyberspace Engineering Lab)
+*		Jinoh Kim	
+*		ICEL (Intelligent Cyberspace Engineering Lab)
 *
 * This file is part of ETRI project.
 *
 ----------------------------------------------------------
 * Copyright (c) 2013-2014 SNL(System and Networks Lab)
-* Department of Computer Science, Texas A&M-Commerce
+* Department of Computer Science, Texas A&M University-Commerce
 * All Right Reserved.
 ----------------------------------------------------------
 */
